@@ -132,18 +132,4 @@ bot.py — Main bot script.
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
----
-
-If you want, I can also generate:
-
-* `requirements.txt`
-* `LICENSE`
-* proper **GitHub description**
-* advanced **improved README** with shields, badges, and deployment instructions
-
-Shall I prepare the **full professional GitHub package** for you?
-👉 *(You just need to say: "Yes, generate full package")*
+This project is licensed under the [MIT License](https://github.com/itisuniqueofficial/telegram-storage-bot/blob/main/LICENSE).
