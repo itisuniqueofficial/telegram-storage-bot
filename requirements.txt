@@ -1,2 +1,2 @@
-telebot
-requests
+pip install python-telegram-bot==13.15
+pip install pyTelegramBotAPI
